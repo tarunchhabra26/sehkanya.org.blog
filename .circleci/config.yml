@@ -24,7 +24,7 @@ jobs:
           command: hexo generate
       - run:
           name: Install AWS CLI
-           command: |
+          command: |
             apt-get -y -qq update
             apt-get -y -qq install python3.4-dev
             curl -O https://bootstrap.pypa.io/get-pip.py
