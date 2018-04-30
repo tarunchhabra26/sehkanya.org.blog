@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  Website: http://sehkanya.org
 
 # Default post title
 default_post_title: Untitled
