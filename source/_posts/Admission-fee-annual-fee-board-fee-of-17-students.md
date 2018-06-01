@@ -1,6 +1,6 @@
 ---
 title: 'Admission fee, annual fee, board fee of 17 students'
-date: 2018-05-31 23:16:41
+date: 2018-05-25 23:16:41
 tags: Admission, annual, board ,17 students , Sehkanya
 cover_index: /images/thumbs/admission-annual-board-fee-17students.jpg
 cover_detail: /images/admission-annual-board-fee-17students.jpg
