@@ -9,4 +9,4 @@ cover_detail: /images/admission-annual-board-fee-17students.jpg
 
 Admission fee + Annual fee + Board Fee of 17 students of 9th,10th and +1 class amounting to Rs. 12060 belonging to Government Senior Secondary School, Jalaldiwal, Tehsil Raikot, District Ludhiana deposited by Sehkanya
 
-![School](/images/admission-annual-board-fee-17students-reciept.jpg)
+![Receipt](/images/admission-annual-board-fee-17students-reciept.jpg)

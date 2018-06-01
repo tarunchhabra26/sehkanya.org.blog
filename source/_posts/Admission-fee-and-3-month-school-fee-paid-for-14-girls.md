@@ -1,6 +1,6 @@
 ---
 title: Admission fee and 3 month school fee paid for 14 girls
-date: 2018-05-31 23:04:35
+date: 2018-05-20 23:04:35
 tags: Admission, fee, 3 months fee, 14 girls, Sehkanya
 cover_index: /images/thumbs/Admission-fee-and-3month-fee.jpg
 cover_detail: /images/Admission-fee-and-3month-fee.jpg

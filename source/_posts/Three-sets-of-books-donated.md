@@ -1,6 +1,6 @@
 ---
 title: Three sets of books donated
-date: 2018-05-31 23:39:05
+date: 2018-05-28 23:39:05
 tags: Three sets, books, medical ,non-medical , Sehkanya
 cover_index: /images/thumbs/three-sets-of-books-donated.jpg
 cover_detail: /images/three-sets-of-books-donated.jpg
