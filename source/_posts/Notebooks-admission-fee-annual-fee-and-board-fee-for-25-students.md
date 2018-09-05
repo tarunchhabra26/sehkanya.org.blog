@@ -1,6 +1,6 @@
 ---
 title: 'Notebooks, admission fee, annual fee and board fee for 25 students'
-date: 2018-09-05 11:59:44
+date: 2018-07-15 11:59:44
 tags: notebooks, admission fee, annual fee, board fee, 25 students
 cover_index: /images/thumbs/Notebooks-admission-fee-annual-fee-and-board-fee-for-25-students.jpg
 cover_detail: /images/Notebooks-admission-fee-annual-fee-and-board-fee-for-25-students.jpg
