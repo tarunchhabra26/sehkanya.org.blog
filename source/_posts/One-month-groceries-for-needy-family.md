@@ -1,7 +1,7 @@
 ---
 title: One month groceries for needy family
 date: 2018-06-27 11:44:08
-tags: 
+tags: One month groceries, needy family
 cover_index: /images/thumbs/One-month-groceries-for-needy-family.jpg
 cover_detail: /images/One-month-groceries-for-needy-family.jpg
 ---
