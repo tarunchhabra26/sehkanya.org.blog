@@ -24,10 +24,6 @@ jobs:
           paths:
             - node_modules
       - run:
-          name: Force resize thumbnails
-          command: python ~/sehkanya.org.blog/source/images/thumbs/resize.py
-
-      - run:
           name: Generate static website
           command: hexo generate
 
