@@ -20,7 +20,7 @@ jobs:
           paths:
             - node_modules
       - run:
-	  name: Force resize thumbnails
+          name: Force resize thumbnails
           command: python source/images/thumbs/resize.py
 
       - run:
