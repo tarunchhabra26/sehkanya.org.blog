@@ -25,8 +25,7 @@ jobs:
             - node_modules
       - run:
           name: Force resize thumbnails
-          command: python resize.py
-          working_directory: ~/sehkanya.org.blog/source/images/thumbs
+          command: python ~/sehkanya.org.blog/source/images/thumbs/resize.py
 
       - run:
           name: Generate static website
