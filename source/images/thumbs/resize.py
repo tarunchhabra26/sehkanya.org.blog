@@ -32,5 +32,9 @@ if __name__ == "__main__":
                 print f
                 image = Image.open(os.path.join(path,f))
                 width, height= image.size
+<<<<<<< HEAD
                 image = image.resize(adjusted_size(max_width, max_height))
+=======
+                image = image.resize(adjusted_size(width, height))
+>>>>>>> a317199aa424af754fa8f905f1c20a9732e5785d
                 image.save(os.path.join(path,f))
