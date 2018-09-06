@@ -20,14 +20,20 @@ jobs:
           paths:
             - node_modules
       - run:
+	  name: Force resize thumbnails
+          command: python source/images/thumbs/resize.py
+
+      - run:
           name: Generate static website
           command: hexo generate
+
       - run:
           name: Install AWS CLI
           command: |
             apt-get update
             apt-get install -y python-pip python-dev
             pip install awscli
+
       - run:
           name: Push to S3 bucket
           command: cd public/ && aws s3 sync . s3://blog.sehkanya.org --region ap-south-1
